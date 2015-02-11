@@ -1,11 +1,4 @@
-/**
- * Created by ALAlston on 2/11/15.
- */
+// Declaring Variables
 
-var yearBorn = 1955;
+var age;
 
-/*
-console.log("Hello World!");
-console.log(yearBorn);
-    */
-alert(yearBorn);
