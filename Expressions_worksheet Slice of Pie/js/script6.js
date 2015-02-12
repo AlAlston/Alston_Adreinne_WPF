@@ -24,7 +24,9 @@ var people = prompt ( "We are calculating the slices of pizza eaten per person. 
 var pizzaOrdered = prompt ( "Enter the amount of Pizza ordered. ")
 //prompt allowing user to input the amount of pizza ordered
 var slicesPerPizza = 8; // 1 pizza equals 8 slices when divided equally
-var slicePerPerson = slicesPerPizza / people;
+var slicePerPerson = slicesPerPizza / people;// slices per person = slices per pizza divided by people which slices were
+// to 8 slices per pizza.
+
 
 var result = " Each person ate " + slicePerPerson + " slices of pizza at the party ";
-alert(result);
+alert(result); // the total amount slices people ate at the party when split evenly.
