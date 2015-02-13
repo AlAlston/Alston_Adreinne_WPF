@@ -18,6 +18,6 @@ console.log(" Amelia makes " + daily + " on a daily basis ");//prints it out to 
 var result = " Amelia makes " + daily + " on a daily basis ";
 alert(result); // prompts the results of how much Amelia makes daily.
 
-var moneyMAde = [2348, 587];
-var total = moneyMAde[0] / moneyMAde[1]
-console.log(" It takes " + total + " weeks of 5 day work weeks for Amelia to make her monthly pay ");
+var moneyMAde = [2348, 587];// Arrays are the monthly and weekly amounts
+var total = moneyMAde[0] / moneyMAde[1] // Arrays divided in order to calculate the number of weeks.
+console.log(" It takes " + total + " weeks of 5 day work weeks for Amelia to make her monthly pay ");//prints into console
