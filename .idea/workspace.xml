@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script6.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/js/script6.js">
+      <file leaf-file-name="script7.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie II/js/script7.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6070496" vertical-offset="0" max-vertical-offset="766">
-              <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script7.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie II/js/script7.js">
+      <file leaf-file-name="script6.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/js/script6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.5678851" vertical-offset="0" max-vertical-offset="766">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -571,14 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_worksheet Dog Years/js/script5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5091384" vertical-offset="0" max-vertical-offset="766">
@@ -590,15 +582,23 @@
     <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie II/js/script7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_worksheet Slice of Pie/js/script6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6070496" vertical-offset="0" max-vertical-offset="766">
-          <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+        <state vertical-scroll-proportion="0.5678851" vertical-offset="0" max-vertical-offset="766">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
