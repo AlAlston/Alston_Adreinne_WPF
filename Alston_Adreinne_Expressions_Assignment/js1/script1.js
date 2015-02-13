@@ -19,4 +19,4 @@ myFirstName = prompt (" Please enter first your name");
 myLastName = prompt (" Please enter your last name")
 
 //Outputs
-console.log ("Your name is "+ myFirstName + " " + myLastName + ".");
+console.log ("Your name is "+ myFirstName + myLastName +".")
