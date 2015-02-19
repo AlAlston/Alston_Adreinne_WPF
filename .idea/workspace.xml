@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59d7f872-8c9c-4cf7-98a0-46141490be71" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Screencast: Conditionals/index.html" afterPath="$PROJECT_DIR$/Screencast: Conditionals/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Screencast: Conditionals/js/script8.js" afterPath="$PROJECT_DIR$/Screencast: Conditionals/js/script8.js" />
     </list>
     <ignored path="Alston_Adreinne_WPF.iws" />
@@ -27,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script8.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/js/script8.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/index.html">
+      <file leaf-file-name="script8.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/js/script8.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.063025214" vertical-offset="0" max-vertical-offset="240">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="262">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -93,8 +92,8 @@
         <option value="$PROJECT_DIR$/Alston_Adreinne_Expressions_Assignment1/index.html" />
         <option value="$PROJECT_DIR$/Alston_Adreinne_Expressions_Assignment1/js/script8.js" />
         <option value="$PROJECT_DIR$/Alston_Adreinne_Expressions_Assignment 1/js/script8.js" />
-        <option value="$PROJECT_DIR$/Screencast: Conditionals/js/script8.js" />
         <option value="$PROJECT_DIR$/Screencast: Conditionals/index.html" />
+        <option value="$PROJECT_DIR$/Screencast: Conditionals/js/script8.js" />
       </list>
     </option>
   </component>
@@ -584,18 +583,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/js/script8.js">
+    <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/index.html">
+    <entry file="file://$PROJECT_DIR$/Screencast: Conditionals/js/script8.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.063025214" vertical-offset="0" max-vertical-offset="240">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="262">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>

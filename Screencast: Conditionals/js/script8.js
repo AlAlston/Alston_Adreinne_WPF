@@ -1,6 +1,6 @@
 // Screencast: Conditionals
 
-sunny=true;
+sunny=false;
 if(sunny){
-    goToTheBeach ();
+    goToTheBeach();
 }
