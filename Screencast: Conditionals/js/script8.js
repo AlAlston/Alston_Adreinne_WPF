@@ -1,6 +1,9 @@
 // Screencast: Conditionals
 
-sunny=false;
-if(sunny){
+
+sunny=true;
+if (sunny) {
+    goToTheMovies();
+} else {
     goToTheBeach();
 }
