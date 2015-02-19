@@ -1,6 +1,6 @@
 // Screencast: Ternary Operators
 
-var age = 11;
+var age = 6;
 var book;
 
 
