@@ -5,8 +5,10 @@ sunny = true;
 
 if (sunny) {
     goToTheBeach();
-}else{
-    if(warmWater){
+
+    if (warmWater) {
         wearNewSuit();
     }
+}else{
+    goToTheMovies();
 }
