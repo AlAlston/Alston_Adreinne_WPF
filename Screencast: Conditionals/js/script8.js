@@ -1,7 +1,7 @@
 // Screencast: Conditionals
 
 
-temp = 82;
+temp = 65;
 
 if (temp > 70) {
     goToTheBeach();
