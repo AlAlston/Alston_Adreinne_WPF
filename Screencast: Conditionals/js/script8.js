@@ -1,9 +1,8 @@
 // Screencast: Conditionals
 
 
-sunny=true;
-if (sunny) {
-    goToTheMovies();
-} else {
+temp = 82;
+
+if (temp > 70) {
     goToTheBeach();
 }
