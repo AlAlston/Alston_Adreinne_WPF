@@ -1,14 +1,10 @@
-// Screencast: Nesting Conditionals
+// Screencast: Conditional Statements
 
 
 sunny = true;
 
-if (sunny) {
+if (sunny){
     goToTheBeach();
-
-    if (warmWater) {
-        wearNewSuit();
-    }
 }else{
     goToTheMovies();
 }
