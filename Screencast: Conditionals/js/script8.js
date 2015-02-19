@@ -1,5 +1,6 @@
 // Screencast: Conditionals
 
-if(condition){
-    actions
+sunny=true;
+if(sunny){
+    goToTheBeach ();
 }
