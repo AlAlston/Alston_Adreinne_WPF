@@ -1,11 +1,13 @@
 // Screencast: Ternary Operators
 
-if(condition) {
-    do if true;
+var age = 11;
+var book;
+
+
+//If the child is under 10, they get Green Eggs and Ham, otherwise they get The Time Machine
+if(age < 10){
+book = "Green Eggs and Ham";
 }else{
-    do if false;
+    book = "The Time Machine";
 }
-
-(condition) ? do if true : do if false;
-
-
+console.log(book);
