@@ -1,8 +1,12 @@
-// Screencast: Conditionals
+// Screencast: Nesting Conditionals
 
 
-temp = 65;
+sunny = true;
 
-if (temp > 70) {
+if (sunny) {
     goToTheBeach();
+}else{
+    if(warmWater){
+        wearNewSuit();
+    }
 }
