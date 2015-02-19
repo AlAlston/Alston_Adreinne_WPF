@@ -1,6 +1,6 @@
 // Screencast: Relational Expression
 
-var kidHeight = 30;
+var kidHeight = 50;
 
 //if the child is old enough, print to the console, "you can ride!"
 //if kid is over 48 inches in height
