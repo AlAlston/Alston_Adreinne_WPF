@@ -1,10 +1,12 @@
-// Screencast: Relational Expression
+// Screencast: Logic Operators
 
-var kidHeight = 40;
-var minHeight = 48;
-//if the child is old enough, print to the console, "you can ride!"
-//if kid is over 48 inches in height
-if(kidHeight > minHeight){
-    //code performed if condition is true
-    console.log(" You can ride the coaster! ");
+var budget = 300;
+var iPhonePrice = 199.99;
+var paycheck = 200;
+
+//if the iphone price is less our budget
+if(iPhonePrice < budget) {
+    console.log("We can buy the phone!");
+}else{
+    console.log("No phone for you!");
 }
